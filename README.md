@@ -34,15 +34,10 @@ The RMSprop optimizer is similar to the gradient descent algorithm with momentum
 ![](images/optimizer.jpg)
 # RESULS
 Following results were obtained after training and testing the model on KTH dataset with the split of 0.8 and 0.2 respectively.
-# Loss Graph
-![](images/loss.png)
-
-# Accuracy Graph
-![](images/accuracy.png)
 # Loss and Accuracy Graphs
 ![](images/accuracy_3D_CNN.png)
 
 # Conclusion
-* accuracy for training data was about 92% and for validation was about 70%
+* Validation Accuracy was about 90%
 * Dropout of 50% and Batch Normalization for each layer decreased overfitting
 * Hardwiring the input to 5 channels improved the accuracy significantly
