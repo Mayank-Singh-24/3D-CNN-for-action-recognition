@@ -39,7 +39,8 @@ Following results were obtained after training and testing the model on KTH data
 
 # Accuracy Graph
 ![](images/accuracy.png)
-
+# Loss and Accuracy Graphs
+![](images/accuracy_3D_CNN.png)
 
 # Conclusion
 * accuracy for training data was about 92% and for validation was about 70%
